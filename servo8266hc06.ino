@@ -3,9 +3,8 @@
 Servo s;
 
 int center = 90;
-int onPos  = 173;
-int offPos = 7
-;
+int onPos  = 175;
+int offPos = 0;
 
 void setup() {
   Serial.begin(9600);
